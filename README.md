@@ -19,7 +19,7 @@ Desarrollador de software de Colombia. Me gusta construir aplicaciones completas
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**gym-app**](https://github.com/Diego0267523/gym-app) | API de fitness: comidas, calorías con IA, rutinas y red social | Node.js, Express, MySQL, Socket.io |
-| [**frontend**](https://github.com/Diego0267523/frontend) | App web y Android de fitness social | React, MUI, Capacitor |
+| [**gym-app**](https://github.com/Diego0267523/gym-app) | API REST de FitU: comidas, calorías con IA, rutinas y red social | Node.js, Express, MySQL, Socket.io |
+| [**frontend**](https://github.com/Diego0267523/frontend) | Cliente web y Android de FitU, app de fitness social | React, MUI, Capacitor |
 
 También trabajo en proyectos privados: una app Android con asistente de estudio, un videojuego RPG multijugador en Godot y automatizaciones con Node.js y Python.

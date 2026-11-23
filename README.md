@@ -16,6 +16,7 @@ Desarrollador de software de Colombia. Me gusta construir aplicaciones completas
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
 
 ## 🚀 Proyectos destacados
+n**FitU** es una app de fitness social completa: API en Node.js y cliente React/Android, con IA para estimar calorías y generar rutinas. Ambos repos tienen CI y tests.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
